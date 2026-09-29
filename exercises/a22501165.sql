@@ -1,5 +1,10 @@
---Identificação e metadados 
-
+/* 
+a22501165
+Hugo Miguel Grilo
+Turma noite
+19:30
+*/
+-- 1.Identificação e metadados 
 USE BikeStores;
 GO
 
